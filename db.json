@@ -1,0 +1,82 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "India"
+    },
+    {
+      "id": 2,
+      "name": "Canada"
+    },
+    {
+      "id": 3,
+      "name": "USA"
+    },
+    {
+      "name": "China",
+      "id": 4
+    },
+    {
+      "name": "England",
+      "id": 5
+    },
+    {
+      "name": "Australia",
+      "id": 6
+    },
+    {
+      "name": "pakistan",
+      "id": 7
+    }
+  ],
+  "cities": [
+    {
+      "city": "London",
+      "country": "England",
+      "population": "4,545,000",
+      "id": 2
+    },
+    {
+      "city": "Delhi",
+      "country": "India",
+      "population": "19,545,000",
+      "id": 3
+    },
+    {
+      "city": "Newyork",
+      "country": "USA",
+      "population": "15,545,000",
+      "id": 4
+    },
+    {
+      "city": "Paris",
+      "country": "france",
+      "population": "9,535,000",
+      "id": 5
+    },
+    {
+      "city": "kualalumpur",
+      "country": "Malaysia",
+      "population": "2,545,000",
+      "id": 6
+    },
+    {
+      "city": "Phuket",
+      "country": "Thailand",
+      "population": "1,645,000",
+      "id": 7
+    },
+    {
+      "city": "california",
+      "country": "USA",
+      "population": "4559809",
+      "id": 8
+    },
+    {
+      "city": "karachi",
+      "country": "pakistan",
+      "population": "86876",
+      "id": 9
+    }
+  ]
+}
